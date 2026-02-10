@@ -1,16 +1,3 @@
-Absolutely 👍
-Below is a **clean, professional, evaluator-friendly README** you can **copy-paste directly** into `README.md`.
-
-This README:
-
-* Explains **what** the project is
-* Explains **how** it works
-* Shows **API usage clearly**
-* Mentions **Vercel deployment**
-* Looks **industry-level**, not student-level
-
----
-
 # 🚀 BFHL REST API – Chitkara Qualifier
 
 A production-ready REST API developed as part of the **Chitkara University Qualifier Task**.
@@ -291,5 +278,6 @@ Chitkara University
 * This project follows **Clean Architecture**, **KISS**, and **DRY** principles
 * Designed to be **scalable**, **maintainable**, and **production-ready**
 * Built to meet and exceed the qualifier task requirements
+
 
 
