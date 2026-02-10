@@ -8,11 +8,12 @@ const app = express();
 
 app.use(express.json());
 
-// Routes
+// ✅ ROUTES
 app.use("/", healthRoutes);
 app.use("/", bfhlRoutes);
 
-// Global Error Handler (MUST be last)
+// ✅ ERROR HANDLER LAST
 app.use(errorMiddleware);
 
 module.exports = app;
+
